@@ -29,8 +29,7 @@ Learning full-stack fundamentals and building real projects step by step.
 ---
 
 ## 📫 Contact
-**Email:** your_email_here  
-(Optional) LinkedIn / Portfolio
+**Email : * mabhinav259@gmail.com *
 
 ---
 
