@@ -1,16 +1,37 @@
 ## Hi there 👋
 
-<!--
-**AbhinavMishra119/AbhinavMishra119** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Abhinav Mishra
 
-Here are some ideas to get you started:
+**Student Developer (11th Grade)**  
+Learning full-stack fundamentals and building real projects step by step.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 What I Do
+- Write clean beginner-friendly code  
+- Learn by building small, practical projects  
+- Explore software concepts across multiple languages  
+
+---
+
+## 🔧 Skills & Tools
+**Languages:** Java · Python · Rust · Ruby  
+**Web:** HTML · CSS · Basic JS  
+**Tools:** Git · GitHub · VS Code  
+**Concepts:** OOP · Problem Solving · Basic Algorithms
+
+---
+
+## 📌 Current Focus
+- Strengthening core programming fundamentals  
+- Planning my first full-fledged development project  
+
+---
+
+## 📫 Contact
+**Email:** your_email_here  
+(Optional) LinkedIn / Portfolio
+
+---
+
+> Focused on improvement. Building consistency. Growing as a developer.
