@@ -15,7 +15,7 @@ Learning full-stack fundamentals and building real projects step by step.
 ---
 
 ## 🔧 Skills & Tools
-**Languages:** Java · Python · Rust · Ruby  
+**Languages:** Java · Python  
 **Web:** HTML · CSS · Basic JS  
 **Tools:** Git · GitHub · VS Code  
 **Concepts:** OOP · Problem Solving · Basic Algorithms
